@@ -1,0 +1,9 @@
+{
+    "port": "8080",
+    "mongoose" : {
+        "uri" : "mongodb://localhost/miniline"
+    },
+    "token": {
+        "secret": "miniline_dot_net_the_best_site_of_all_time"
+    }
+}
